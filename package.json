@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "@types/chai": "^3.4.34",
     "@types/mocha": "^2.2.33",
     "@types/node": "0.0.2",
