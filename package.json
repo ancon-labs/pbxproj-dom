@@ -15,7 +15,6 @@
   },
   "scripts": {
     "prepublish": "pegjs parser.pegjs && tsc",
-    "postinstall": "pegjs parser.pegjs && tsc",
     "test": "pegjs parser.pegjs && tsc && mocha",
     "watch": "mocha-typescript-watch"
   },
